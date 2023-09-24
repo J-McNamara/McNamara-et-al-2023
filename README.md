@@ -1,6 +1,7 @@
 # McNamara-et-al-2023
 
-*Barcode sequencing analysis*
+**Barcode sequencing analysis**
+
 Joshua T. McNamara
 Rong Li Lab
 Johns Hopkins University  
