@@ -1,0 +1,5 @@
+Read 1
+cd85574cdc0b41cb02f798421d3f09b4  ./barseq-001_R1_001.fastq.gz
+
+Read 2 (not used in this study)
+39b43e281920b8affcd366a0ffcdc48c  ./barseq-001_R2_001.fastq.gz
