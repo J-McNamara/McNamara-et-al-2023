@@ -60,7 +60,7 @@ We welcome contributions to improve the analysis pipeline. Please submit pull re
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md).
+This project is licensed under the [MIT License](LICENSE).
 
 ## Citation
 
